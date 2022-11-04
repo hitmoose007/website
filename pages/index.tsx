@@ -8,7 +8,6 @@ import CallToActionWithAnnotation from '../src/components/hero'
 import SplitWithImage from '../src/components/main'
 import WithSubnavigation from '../src/components/nav'
 import Partners from '../src/components/partners'
-import Test from '../src/components/position'
 import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
