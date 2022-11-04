@@ -53,7 +53,12 @@ import {
           </Flex>
           <Flex flex={{ base: 1 }} justify={{ base: 'center', md: 'start' }} >
             <Link href='/'>
-            <Image src="./magpy.png" height={'10'} width={'auto'}/>
+            <Image 
+            src="./magpy.png" 
+            height={'10'} 
+            width={'auto'}
+            alt='magpy-logo'
+            />
             </Link>
           </Flex>
           <Flex display={{ base: 'none', md: 'flex' }} ml={10} paddingX={{md: 2}}>
@@ -77,6 +82,7 @@ import {
               Sign In
             </Button>
             <Button
+              as={'a'}
               display={{ base: 'none', md: 'inline-flex' }}
               fontSize={'sm'}
               fontWeight={600}

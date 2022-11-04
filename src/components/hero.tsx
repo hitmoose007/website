@@ -20,7 +20,7 @@ export default function CallToActionWithAnnotation() {
       <Box position='relative'>
 
 
-      <Image src='./gear.png' width={'auto'} height={{base: '70%', md: '800px' }} ms='-30' position='absolute' top={{base: "12", md: ""}} left="0" />
+      <Image src='./gear.png' width={'auto'} height={{base: '70%', md: '800px' }} ms='-30' position='absolute' top={{base: "12", md: ""}} left="0" alt='gear'/>
 
       <Container maxW={'auto'} >
         <Stack
@@ -51,6 +51,7 @@ export default function CallToActionWithAnnotation() {
                 src='./hero_icon.png'
                 width={{base: '70%', md: '' }}
                 height={'auto'}
+                alt='laptop'
                 />
           </Stack>
         </Stack>

@@ -14,7 +14,7 @@ const Feature = ({ title, text, icon, size }: FeatureProps) => {
         <Image
         src= {icon}
         boxSize={size}
-        
+        alt='feature'
         />
       <Text fontWeight={600}>{title}</Text>
       <Text color={'gray.600'} textAlign='center'>{text}</Text>

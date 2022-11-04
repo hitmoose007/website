@@ -13,6 +13,7 @@ const Partners = () => {
                         src='./partner-icons/astar.png'
                         margin={'auto'}
                         display={'block'}
+                        alt='Astar network'
                         />
                 </Link>
                 <Link href="https://intmax.io/" isExternal>
@@ -20,6 +21,7 @@ const Partners = () => {
                         src='./partner-icons/intmax.png'
                         margin={'auto'}
                         display={'block'}
+                        alt='Intmax'
                         />
                 </Link>
                 <Link isExternal>
@@ -27,6 +29,7 @@ const Partners = () => {
                         src='./partner-icons/stir.png'
                         margin={'auto'}
                         display={'block'}
+                        alt='Stir'
                         />
                 </Link>
                 <Link href="https://nextweb.capital/" isExternal>
@@ -34,6 +37,7 @@ const Partners = () => {
                         src='./partner-icons/NextWebCapital.png'
                         margin={'auto'}
                         display={'block'}
+                        alt='NextWeb Capital'
                         />
                 </Link>
                 <Link href="https://www.oasys.games/" isExternal>
@@ -41,6 +45,7 @@ const Partners = () => {
                         src='./partner-icons/OASYS.png'
                         margin={'auto'}
                         display={'block'}
+                        alt='Oasys Chain'
                         />
                 </Link>
                 <Link href="https://ununifi.io/" isExternal>
@@ -48,6 +53,7 @@ const Partners = () => {
                         src='./partner-icons/UnUniFi.png'
                         margin={'auto'}
                         display={'block'}
+                        alt='UnUnifi'
                         />
                 </Link>
             </SimpleGrid>

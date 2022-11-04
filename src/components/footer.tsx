@@ -60,6 +60,7 @@ import {
             <Image
               src='../partner-icons/white-magpy.png'
               width={{base: 20, md: 100}}
+              alt="icon-magpy"
             />
           </Box>
           <Stack direction={'row'} spacing={6}>
