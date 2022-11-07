@@ -7,7 +7,7 @@ const Partners = () => {
             <Heading textAlign={'center'} paddingY={{base: '2', md: '100'}}>
             Our backers are our ecosystem
             </Heading>
-            <Image src='./gearMain.png' width={{base: '70%', md: '800px' }} height={'auto'} position='absolute' left={{base: 500, md: 0}} alt='gear'/>
+            <Image src='./gearMain.png' width={{base: '70%', md: '800px' }} height={'auto'} position='absolute' left={{base: 300, md: 0}} alt='gear'/>
             <SimpleGrid columns={{base: 2, md: 3}} spacingY={{base: 5, md: 10}} >
                 <Link href='https://astar.network/' isExternal>
                     <Image 
