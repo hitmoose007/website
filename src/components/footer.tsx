@@ -83,15 +83,15 @@ import {
             spacing={4}
             justify={{ base: 'center', md: 'space-between' }}
             align={{ base: 'center', md: 'center' }}>
-            <Text>© 2022 devillage. All rights reserved</Text>
+            <Text color={'#ffffff'}>© 2022 devillage. All rights reserved</Text>
             <Stack direction={'row'} spacing={6}>
-              <SocialButton label={'Twitter'} href={'#'}>
+              <SocialButton color={'#ffffff'} label={'Twitter'} href={'#'}>
                 <FaTwitter />
               </SocialButton>
-              <SocialButton label={'YouTube'} href={'#'}>
+              <SocialButton color={'#ffffff'} label={'YouTube'} href={'#'}>
                 <FaYoutube />
               </SocialButton>
-              <SocialButton label={'Instagram'} href={'#'}>
+              <SocialButton color={'#ffffff'} label={'Instagram'} href={'#'}>
                 <FaInstagram />
               </SocialButton>
             </Stack>
