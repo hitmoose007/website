@@ -26,7 +26,7 @@ export default function SimpleThreeColumns() {
   return (
     <Container maxW={'6xl'}>
     <Heading textAlign={'center'} paddingY={{base: '0', md: '100'}}>
-    Data Science Infrastructure for Blockchain World
+    Excellent Data Infrastructure for Blockchain World
     </Heading>
 
     <Box p={4}>
