@@ -85,14 +85,14 @@ import {
             justify={{ base: 'center', md: 'space-between' }}
             align={{ base: 'center', md: 'center' }}>
             <Text color={'#ffffff'}>© 2022 devillage. All rights reserved</Text>
-            <Stack direction={'row'} spacing={6}>
-              <SocialButton color={'#ffffff'} label={'Twitter'} href={'#'}>
+            <Stack color={'#ffffff'} direction={'row'} spacing={6}>
+              <SocialButton label={'Twitter'} href={'#'}>
                 <FaTwitter />
               </SocialButton>
-              <SocialButton color={'#ffffff'} label={'YouTube'} href={'#'}>
+              <SocialButton label={'YouTube'} href={'#'}>
                 <FaYoutube />
               </SocialButton>
-              <SocialButton color={'#ffffff'} label={'Instagram'} href={'#'}>
+              <SocialButton label={'Instagram'} href={'#'}>
                 <FaInstagram />
               </SocialButton>
             </Stack>
