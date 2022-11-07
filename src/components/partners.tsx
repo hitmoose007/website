@@ -3,7 +3,7 @@ import { Container, SimpleGrid, Image, Heading, Link } from "@chakra-ui/react";
 
 const Partners = () => {
     return(
-        <Container maxW={'5xl'} paddingY={{base: '20', md: '50'}}>
+        <Container maxW={'5xl'} paddingY={{base: '10', md: '100'}}>
             <Heading textAlign={'center'} paddingY={{base: '2', md: '50'}}>
             Our backers are our ecosystem
             </Heading>
