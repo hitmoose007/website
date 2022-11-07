@@ -5,7 +5,7 @@ const Partners = () => {
     return(
         <Container maxW={'5xl'} paddingY={{base: '10', md: '100'}}>
             <Heading textAlign={'center'} paddingY={{base: '2', md: '100'}}>
-            Our backers are our ecosystem
+            Our backers and Chains to be supported
             </Heading>
             
             <SimpleGrid columns={{base: 2, md: 3}} spacingY={{base: 5, md: 10}} >
