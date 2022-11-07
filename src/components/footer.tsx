@@ -56,7 +56,7 @@ import {
           spacing={4}
           justify={'center'}
           align={'center'}>
-          <Text spacingY={{base: 5, md: 20}}>Thank you for your interest.</Text>
+          <Text color={'#ffffff'}>Thank you for your interest.</Text>
           <Box>
             <Image
               src='../partner-icons/white-magpy.png'
