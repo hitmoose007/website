@@ -59,7 +59,7 @@ const Partners = () => {
                 </Link>
                 <Link href="https://weavedb.dev/" isExternal>
                     <Image 
-                        src='./partner-icons/Final Logo 1-01.png'
+                        src='./partner-icons/weavedb.png'
                         margin={'auto'}
                         display={'block'}
                         alt='WeaveDB'
