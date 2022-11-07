@@ -33,9 +33,9 @@ import {
             We, Magpy, will also provide the following services.
             </Text>
             <UnorderedList p={'5'}>
-                <ListItem>Data infrastructure support for enterprise business</ListItem>
-                <ListItem>All in one Python, Excel and Google spread sheets-based data analytics platform</ListItem>
-                <ListItem>Building ML/DL product for metaverse, crypto investment and marketing</ListItem>
+                <ListItem textAlign="left">Data infrastructure support for enterprise business</ListItem>
+                <ListItem textAlign="left">All in one Python, Excel and Google spread sheets-based data analytics platform</ListItem>
+                <ListItem textAlign="left">Building ML/DL product for metaverse, crypto investment and marketing</ListItem>
             </UnorderedList>
           </Stack>
           <Stack >
