@@ -34,7 +34,7 @@ import {
             </Text>
             <UnorderedList p={'5'}>
                 <ListItem textAlign="left">Data infrastructure support for enterprise business</ListItem>
-                <ListItem textAlign="left">All in one Python, Excel and Google spread sheets-based data analytics platform</ListItem>
+                <ListItem textAlign="left">All in one Python, Excel and Google Sheets-based data analytics platform</ListItem>
                 <ListItem textAlign="left">Building ML/DL product for metaverse, crypto investment and marketing</ListItem>
             </UnorderedList>
           </Stack>

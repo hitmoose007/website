@@ -50,7 +50,7 @@ export default function SimpleThreeColumns() {
         size={265}
         title={'On-chain Competition'}
         text={
-            '"How do we use data??" Gaming Platform for training business analysts and data scientists. AI warriors will won blockchain sea world using AI.'
+            '"How do we use data??" Playing game and learning!! You will be AI warriors who won around blockchain sea world using AI.'
         }
         />
       </SimpleGrid>
