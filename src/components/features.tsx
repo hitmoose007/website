@@ -47,6 +47,7 @@ export default function SimpleThreeColumns() {
         text={'Python-based on-chain data analytics platform. Magpy can connect you directly into both machine learning and deep learning world. Of course you use traditional analytics languages.'}
         />
         <Feature
+        justifyContent={'flex-start'}
         icon={'./healthicons_market-stall 1.png'}
         size={265}
         title={'On-chain Competition'}
