@@ -40,19 +40,17 @@ export default function SimpleThreeColumns() {
         }
         />
         <Feature
-        textAlign={'left'}
         icon={'./academicons_open-data 1.png'}
         size={260}
         title={'On-chain Analytics Tool Magpy'}
         text={'Python-based on-chain data analytics platform. Magpy can connect you directly into both machine learning and deep learning world. Of course you use traditional analytics languages.'}
         />
         <Feature
-        justifyContent={'flex-start'}
         icon={'./healthicons_market-stall 1.png'}
         size={265}
         title={'On-chain Competition'}
         text={
-            '"How do we use data??" Gaming Platform for training business analysts and data scientists. We will be AI warrior who will won blockchain sea world using AI.'
+            '"How do we use data??" Gaming Platform for training business analysts and data scientists. AI warriors will won blockchain sea world using AI.'
         }
         />
       </SimpleGrid>
