@@ -54,7 +54,7 @@ export default function SimpleThreeColumns() {
         }
         />
       </SimpleGrid>
-      <Image src='./gear.png' width={{base: '70%', md: '800px' }} height={'auto'} position='absolute' right={{base: 300, md: 0}} alt='gear'/>
+      <Image src='./gear.png' width={{base: '70%', md: '800px' }} height={'auto'} position='absolute' left={{base: 300, md: 0}} alt='gear'/>
     </Box>
         </Container>
   );
