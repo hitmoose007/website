@@ -25,12 +25,12 @@ const Partners = () => {
                         alt='Intmax'
                         />
                 </Link>
-                <Link isExternal>
+                <Link href="https://weavedb.dev/" isExternal>
                     <Image 
-                        src='./partner-icons/stir.png'
+                        src='./partner-icons/weavedb.png'
                         margin={'auto'}
                         display={'block'}
-                        alt='Stir'
+                        alt='WeaveDB'
                         />
                 </Link>
                 <Link href="https://nextweb.capital/" isExternal>
@@ -55,14 +55,6 @@ const Partners = () => {
                         margin={'auto'}
                         display={'block'}
                         alt='UnUnifi'
-                        />
-                </Link>
-                <Link href="https://weavedb.dev/" isExternal>
-                    <Image 
-                        src='./partner-icons/weavedb.png'
-                        margin={'auto'}
-                        display={'block'}
-                        alt='WeaveDB'
                         />
                 </Link>
             </SimpleGrid>
