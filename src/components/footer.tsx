@@ -86,13 +86,13 @@ import {
             align={{ base: 'center', md: 'center' }}>
             <Text color={'#ffffff'}>© 2022 devillage. All rights reserved</Text>
             <Stack direction={'row'} spacing={6}>
-              <SocialButton label={'Twitter'} href={'#'}>
+              <SocialButton color={'#ffffff'} label={'Twitter'} href={'#'}>
                 <FaTwitter />
               </SocialButton>
-              <SocialButton label={'YouTube'} href={'#'}>
+              <SocialButton color={'#ffffff'} label={'YouTube'} href={'#'}>
                 <FaYoutube />
               </SocialButton>
-              <SocialButton label={'Instagram'} href={'#'}>
+              <SocialButton color={'#ffffff'} label={'Instagram'} href={'#'}>
                 <FaInstagram />
               </SocialButton>
             </Stack>
