@@ -8,7 +8,7 @@ const Partners = () => {
             Our backers and Chains to be supported
             </Heading>
             
-            <SimpleGrid columns={{base: 2, md: 3}} spacingY={{base: 5, md: 10}} >
+            <SimpleGrid columns={{base: 3, md: 3}} spacingY={{base: 5, md: 10}} >
                 <Link href='https://astar.network/' isExternal>
                     <Image 
                         src='./partner-icons/astar.png'
