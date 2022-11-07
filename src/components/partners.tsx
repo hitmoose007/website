@@ -6,6 +6,7 @@ const Partners = () => {
         <Container maxW={'5xl'} paddingY={{base: '10', md: '100'}}>
             <Heading textAlign={'center'} paddingY={{base: '2', md: '100'}}>
             Our backers are our ecosystem
+            <Image src='./gear.png' width={'auto'} height={{base: '70%', md: '800px' }} ms='-30' position='absolute' top={{base: "12", md: ""}} left="0" alt='gear'/>
             </Heading>
             <SimpleGrid columns={{base: 2, md: 3}} spacingY={{base: 5, md: 10}} >
                 <Link href='https://astar.network/' isExternal>
