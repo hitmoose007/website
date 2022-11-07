@@ -61,6 +61,7 @@ const Partners = () => {
                     <Image 
                         src='./partner-icons/stir.png'
                         margin={'auto'}
+                        padding={'10px'}
                         display={'block'}
                         alt='Stir'
                         />
