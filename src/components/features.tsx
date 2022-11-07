@@ -42,7 +42,7 @@ export default function SimpleThreeColumns() {
         <Feature
         icon={'./academicons_open-data 1.png'}
         size={260}
-        title={'On-chain Analytics Tool Magpy'}
+        title={'Blockchain Analytics Tool Magpy'}
         text={'Python-based on-chain data analytics platform. Magpy can connect you directly into both machine learning and deep learning world. Of course you use traditional analytics languages.'}
         />
         <Feature
