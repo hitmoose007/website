@@ -40,6 +40,7 @@ export default function SimpleThreeColumns() {
         }
         />
         <Feature
+        textAlign={'left'}
         icon={'./academicons_open-data 1.png'}
         size={260}
         title={'On-chain Analytics Tool Magpy'}
