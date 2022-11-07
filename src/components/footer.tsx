@@ -48,7 +48,7 @@ import {
     return (
       <Box
         bgGradient={'linear(#04B6F8, #13F4FA)'}
-        color={useColorModeValue('gray.700', 'gray.200')}>
+        color={useColorModeValue('gray.700', 'gray.200')} spacingY={{base: 5, md: 100}} >
         <Container
           as={Stack}
           maxW={'6xl'}
@@ -56,6 +56,7 @@ import {
           spacing={4}
           justify={'center'}
           align={'center'}>
+          <Text spacingY={{base: 5, md: 20}}>Thank you for your interest.</Text>
           <Box>
             <Image
               src='../partner-icons/white-magpy.png'
