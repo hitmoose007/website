@@ -14,7 +14,7 @@ const Partners = () => {
                         src='./partner-icons/astar.png'
                         margin={'auto'}
                         display={'block'}
-                        alt='Astar network'
+                        alt='Astar Network'
                         />
                 </Link>
                 <Link href="https://intmax.io/" isExternal>
@@ -55,6 +55,14 @@ const Partners = () => {
                         margin={'auto'}
                         display={'block'}
                         alt='UnUnifi'
+                        />
+                </Link>
+                <Link href="#" isExternal>
+                    <Image 
+                        src='./partner-icons/stir.png'
+                        margin={'auto'}
+                        display={'block'}
+                        alt='Stir'
                         />
                 </Link>
             </SimpleGrid>
