@@ -262,7 +262,7 @@ import {
         {
           label: 'Docs',
           subLabel: 'Explanation about this app',
-          href: '#',
+          href: 'https://medium.com/@magpy.analytics.org',
         },
         {
           label: 'Updates',
