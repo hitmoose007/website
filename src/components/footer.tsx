@@ -86,7 +86,7 @@ import {
             align={{ base: 'center', md: 'center' }}>
             <Text color={'#ffffff'}>© 2022 devillage. All rights reserved</Text>
             <Stack color={'#ffffff'} direction={'row'} spacing={6}>
-              <SocialButton label={'Twitter'} href={'#'}>
+              <SocialButton label={'Twitter'} href={'https://twitter.com/MagpyAnalytics'}>
                 <FaTwitter />
               </SocialButton>
               <SocialButton label={'YouTube'} href={'#'}>
