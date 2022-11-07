@@ -26,7 +26,7 @@ export default function SimpleThreeColumns() {
   return (
     <Container maxW={'6xl'}>
     <Heading textAlign={'center'} paddingY={{base: '0', md: '100'}}>
-    Data Science Infurastructure for Blockchain World
+    Data Science Infrastructure for Blockchain World
     </Heading>
 
     <Box p={4}>
@@ -36,21 +36,21 @@ export default function SimpleThreeColumns() {
         size={250}
         title={'Data Storage'}
         text={
-            'Data infrastructure to enable access to blockchain data by AI and data analysis providers'
+            'Data infrastructure to enable access to blockchain data by AI and data analytics providers. You never need to build archive node only for getting blockchain data.'
         }
         />
         <Feature
         icon={'./academicons_open-data 1.png'}
         size={260}
         title={'On-chain Analytics Tool Magpy'}
-        text={'Python-based on-chain data analysis platform'}
+        text={'Python-based on-chain data analytics platform. Magpy can connect you directly into both machine learning and deep learning world. Of course you use traditional analytics languages.'}
         />
         <Feature
         icon={'./healthicons_market-stall 1.png'}
         size={265}
         title={'On-chain Competition'}
         text={
-            'Platform for training data scientists who can leverage blockchain and AI'
+            '"How do we use data??" Gaming Platform for training business analysts and data scientists. We will be AI warrior who will won blockchain sea world using AI.'
         }
         />
       </SimpleGrid>

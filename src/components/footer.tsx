@@ -64,10 +64,10 @@ import {
             />
           </Box>
           <Stack direction={'row'} spacing={6}>
-            <Link href={'#'}>Home</Link>
-            <Link href={'#about'}>About</Link>
-            <Link href={'http://localhost:3000'}>Company</Link>
-            <Link href={'#'}>Contact</Link>
+            <Link color={'#ffffff'} href={'https://www.magpy.xyz/'}>Home</Link>
+            <Link color={'#ffffff'} href={'https://www.magpy.xyz/'}>About</Link>
+            <Link color={'#ffffff'} href={'https://www.magpy.xyz/'}>Company</Link>
+            <Link color={'#ffffff'} href={'https://www.magpy.xyz/'}>Contact</Link>
           </Stack>
         </Container>
   

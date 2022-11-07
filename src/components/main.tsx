@@ -24,18 +24,18 @@ import {
         <SimpleGrid columns={{ base: 1, md: 2 }} spacingX={{base: 5, md: 100}} textAlign='center'>
           <Stack spacing={4} justifyContent='center' alignItems='center'>
             <Center>
-            <Heading>What is Magpy</Heading>
+            <Heading>Magpy</Heading>
             </Center>
             <Text fontSize={'lg'}>
-            Magpy commits to helping all blockchain-based projects make sophisticated business decisions and leverage AI in innovative areas such as Metaverse, Investment and Marketing.
+            Magpy supports all blockchain-based projects make logical business decisions and leverage AI for innovative areas such as metaverse, investment and marketing.
             </Text>
             <Text>
-            The project will also provide the following services.
+            We, Magpy, will also provide the following services.
             </Text>
             <UnorderedList p={'5'}>
-                <ListItem>Data Infurastructure for enterprise bussiness</ListItem>
-                <ListItem>Construction of a Python-based data analysis platform</ListItem>
-                <ListItem>Blockchain x AI human resource development support</ListItem>
+                <ListItem>Data infrastructure support for enterprise business</ListItem>
+                <ListItem>All in one Python, Excel and Google spread sheets-based data analytics platform</ListItem>
+                <ListItem>Building ML/DL product for metaverse, crypto investment and marketing</ListItem>
             </UnorderedList>
           </Stack>
           <Stack >
