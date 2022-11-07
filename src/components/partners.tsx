@@ -57,6 +57,14 @@ const Partners = () => {
                         alt='UnUnifi'
                         />
                 </Link>
+                <Link href="https://weavedb.dev/" isExternal>
+                    <Image 
+                        src='./partner-icons/Final Logo 1-01.png'
+                        margin={'auto'}
+                        display={'block'}
+                        alt='WeaveDB'
+                        />
+                </Link>
             </SimpleGrid>
         </Container>
     );
