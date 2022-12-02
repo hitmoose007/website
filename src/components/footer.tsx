@@ -68,7 +68,7 @@ import {
             <Link color={'#ffffff'} href={'https://www.magpy.xyz/'}>Home</Link>
             <Link color={'#ffffff'} href={'https://www.magpy.xyz/'}>About</Link>
             <Link color={'#ffffff'} href={'https://www.magpy.xyz/'}>Company</Link>
-            <Link color={'#ffffff'} href={'https://www.magpy.xyz/'}>Contact</Link>
+            <Link color={'#ffffff'} href={'https://docs.google.com/forms/d/e/1FAIpQLSebi3X2RFHrh27pYCFBgBDT7j1_m71K2ABkuo9MxcFFR4WMbg/viewform?usp=share_link'}>Contact</Link>
           </Stack>
         </Container>
   

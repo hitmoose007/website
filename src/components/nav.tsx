@@ -261,13 +261,13 @@ import {
       children: [
         {
           label: 'Docs',
-          subLabel: 'Explanation about this app',
+          subLabel: 'Up-and-coming news',
           href: 'https://medium.com/@magpy.analytics.org',
         },
         {
-          label: 'Updates',
-          subLabel: 'Up-and-coming news',
-          href: '#',
+          label: 'Products',
+          subLabel: 'Product information',
+          href: 'https://magpy.gitbook.io/magpy_v0.1/',
         },
         {
           label: 'Github',
