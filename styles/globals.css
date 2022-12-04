@@ -1,9 +1,17 @@
-html,
+html{
+    height: 100%;
+    box-sizing: border-box;
+}
 body {
+  position: relative;
+
   padding: 0;
   margin: 0;
+  min-height: 100%;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    box-sizing: inherit;
+    padding-bottom: 250px;
 }
 
 a {

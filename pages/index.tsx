@@ -18,6 +18,7 @@ const Home: NextPage = () => {
       <SplitWithImage/>
       <SimpleThreeColumns />
       <Partners />
+      
       <SmallCentered />
     </>
   )

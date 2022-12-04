@@ -47,8 +47,14 @@ import {
   export default function SmallCentered() {
     return (
       <Box
+      position={'absolute'}
+        bottom='0'
+        right='0'
+        left='0'
+        padding={'10'}
         bgGradient={'linear(#04B6F8, #13F4FA)'}
         color={useColorModeValue('gray.700', 'gray.200')}>
+            
         <Container
           as={Stack}
           maxW={'6xl'}
